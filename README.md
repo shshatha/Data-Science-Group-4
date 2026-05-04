@@ -1,5 +1,5 @@
-⚡ ARTI506 Electricity Assignments
-Academic Jupyter Notebook
+⚡Electricity Consumption Trend Analysis and Prediction Using Smart Meter Data 
+
 Abstract
 
 This repository presents a structured set of electricity-related assignments developed as part of the ARTI506 course. The notebook integrates theoretical electrical principles with computational implementation using Python. It aims to enhance conceptual understanding through problem-solving, numerical analysis, and practical demonstrations of key electrical relationships.
